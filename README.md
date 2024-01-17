@@ -5,7 +5,7 @@
 - 📫 How to reach me? Email alyx@yoimiya.org
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GCCan&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GCCan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](github-readme-stats-noygiexxw-gccans-projects.vercel.app/api/top-langs/?username=GCCan)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
