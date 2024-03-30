@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Email alyx@yoimiya.org
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GCCan&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats-git-main-gccans-projects.vercel.app/api/top-langs/?username=GCCan)](https://github.com/anuraghazra/github-readme-stats)
+![GCCan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GCCan&theme=vue-dark&hide_border=true)
 
 
 <!---
