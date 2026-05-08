@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GCCan
 - 👀 I’m interested in internet tools
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Semiconductor Materials
 - 📫 How to reach me? Email alyx@yoimiya.org
 
 ![GCCan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GCCan&theme=vue-dark&hide_border=true)
